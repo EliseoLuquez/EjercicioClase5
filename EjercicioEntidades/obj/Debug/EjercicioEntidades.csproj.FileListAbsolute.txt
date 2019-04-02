@@ -1,0 +1,5 @@
+D:\VisualStudio\Ejercicio5\EjercicioEntidades\bin\Debug\EjercicioEntidades.dll
+D:\VisualStudio\Ejercicio5\EjercicioEntidades\bin\Debug\EjercicioEntidades.pdb
+D:\VisualStudio\Ejercicio5\EjercicioEntidades\obj\Debug\EjercicioEntidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio5\EjercicioEntidades\obj\Debug\EjercicioEntidades.dll
+D:\VisualStudio\Ejercicio5\EjercicioEntidades\obj\Debug\EjercicioEntidades.pdb

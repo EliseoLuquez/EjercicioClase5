@@ -1,0 +1,12 @@
+D:\VisualStudio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csprojAssemblyReference.cache
+D:\VisualStudio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.Properties.Resources.resources
+D:\VisualStudio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.GenerateResource.cache
+D:\VisualStudio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+D:\VisualStudio\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.exe
+D:\VisualStudio\Ejercicio5\Ejercicio5\bin\Debug\Ejercicio5.pdb
+D:\VisualStudio\Ejercicio5\Ejercicio5\bin\Debug\EjercicioEntidades.dll
+D:\VisualStudio\Ejercicio5\Ejercicio5\bin\Debug\EjercicioEntidades.pdb
+D:\VisualStudio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.csproj.CopyComplete
+D:\VisualStudio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.exe
+D:\VisualStudio\Ejercicio5\Ejercicio5\obj\Debug\Ejercicio5.pdb
